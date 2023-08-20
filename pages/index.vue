@@ -24,6 +24,7 @@ onMounted(async () => {
   await nextTick();
   fetchWeather();
 });
+
 const weatherData = ref(null);
 const details = reactive({
   city: null,
