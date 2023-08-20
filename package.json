@@ -15,6 +15,7 @@
     "nuxt": "^3.6.5"
   },
   "dependencies": {
-    "dotenv": "^16.3.1"
+    "dotenv": "^16.3.1",
+    "vercel": "^31.4.0"
   }
 }
