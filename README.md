@@ -1,2 +1,0 @@
-# Taiwan-Weather
-Taiwan(SVG)
